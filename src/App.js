@@ -28,7 +28,7 @@ function App() {
       <Navbar title="TextUtils" mode={mode} toggleText={text} toggleMode={toggleMode}/>
       <div className="container">
       <TextForm heading= "Text Editor" mode={mode}/>
-      {/* <About /> */}
+      {/* <About />  */}
       </div>
     </>
   );
